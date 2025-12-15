@@ -1,5 +1,5 @@
 
-# [Flight Itinerary $594](https://www.google.com/travel/flights/s/bt1EiVMSnQLDBJVK6)
+# [Flight Itinerary $594 for 2 people](https://www.google.com/travel/flights/s/bt1EiVMSnQLDBJVK6)
 
 ## Departing Flight — Wed, Jan 28
 ![alt text](image-4.png)
@@ -53,3 +53,4 @@
 
 ---
 # Total $2021 + $597 + $382 = $3000
+
